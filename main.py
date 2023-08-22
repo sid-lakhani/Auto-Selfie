@@ -23,5 +23,5 @@ while True:
             file_name = f'selfie-{time_stamp}.png'
             cv2.imwrite(file_name, original_frame)
     cv2.imshow('Auto Selfie', frame)
-    if cv2.waitKey(10) == ord('x'):
+    if cv2.waitKey(10) == ord('q'):
         break
