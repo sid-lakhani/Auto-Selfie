@@ -1,5 +1,7 @@
 # 📸 Auto-Selfie with OpenCV  
 
+![Auto Selfie](assets/auto-selfie.png)
+
 This Python project uses OpenCV to capture selfies automatically when it detects a smiling face in the camera frame. It provides a fun and interactive way to take pictures with just a smile!  
 
 ## ✨ Features  
